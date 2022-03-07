@@ -1,0 +1,6 @@
+{
+    "presets": ["next/babel"],
+    "plugins": []
+}
+//why create this?
+//https://babeljs.io/docs/en/configuration
